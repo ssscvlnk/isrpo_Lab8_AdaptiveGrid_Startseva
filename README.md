@@ -7,6 +7,8 @@
 - gridPractice.css — стили для gridPractice.html
 - README.md — документация
 - img/ — папка для скриншотов
+- grid-practice.html — cоздание Grid-макета
+- grid-practice.css - стили для grid-practice.html
 ---
 ## Описание
 **Цель работы:** освоить современные технологии CSS-разметки — Grid.
